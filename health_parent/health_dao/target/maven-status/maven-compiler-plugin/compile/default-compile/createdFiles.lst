@@ -1,0 +1,9 @@
+com\itheima\dao\CheckGroupDao.class
+com\itheima\dao\UserDao.class
+com\itheima\dao\CheckItemDao.class
+com\itheima\dao\MemberDao.class
+com\itheima\dao\RoleDao.class
+com\itheima\dao\OrderDao.class
+com\itheima\dao\PermissionDao.class
+com\itheima\dao\SetmealDao.class
+com\itheima\dao\OrderSettingDao.class
